@@ -1,11 +1,20 @@
-# <div align="center">📌WILDBEAST📌 </div>
-<h3 align="center">Projeto feito para aplicar os conhecimentos em GRID!!!
+<div align="center">
+  <h1>📌WILDBEAST📌 </h1>
+
+  <img      src="https://github.com/GabrielSF2022/WILDBEAST/blob/main/src/images/icon-wolf.png?raw=true"/>
+</div>
+
 
 
 ![Wildbeast - Google Chrome 2022-05-23 10-56-12](https://user-images.githubusercontent.com/97768716/169837302-0db1e107-a4e1-40b9-88cf-da18766aa0a4.gif)
 
 
-  
+<h2 align="center">
+  <a href="https://gabrielsf2022.github.io/WILDBEAST/" target="_blank"> Veja o site </a>
+</h2>
+
+## 🧾 Sobre
+
 
 
 <h2 align="center"> FERRAMENTAS USADAS </h2>
