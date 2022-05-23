@@ -2,7 +2,7 @@
   <h1>📌WILDBEAST📌 </h1>
 
   <img      src="https://github.com/GabrielSF2022/WILDBEAST/blob/main/src/images/icon-wolf.png?raw=true"/>
-</div>
+
 
 
 
@@ -12,8 +12,10 @@
 <h2 align="center">
   <a href="https://gabrielsf2022.github.io/WILDBEAST/" target="_blank"> Veja o site </a>
 </h2>
+</div>
 
-## 🧾 Sobre
+<h2>🧾 Sobre</h2>
+<p> Projeto feito no curso de GRID do canal Origamid, para aplicar os conhecimentos em grid</p>
 
 
 
