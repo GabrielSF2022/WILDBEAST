@@ -7,6 +7,7 @@
 
 
 ![Wildbeast - Google Chrome 2022-05-23 10-56-12](https://user-images.githubusercontent.com/97768716/169837302-0db1e107-a4e1-40b9-88cf-da18766aa0a4.gif)
+![Design_sem_nome__2_-removebg-preview (1)](https://user-images.githubusercontent.com/97768716/172176596-8b021ad2-6ee1-4640-a1da-e4374f9da6da.png)
 
 
 <h2 align="center">
